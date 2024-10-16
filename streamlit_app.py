@@ -3,9 +3,9 @@ import streamlit as st
 st.title("내가 만든 앱")
 
 markdown_text = """ 
-# This is a Header
+# "제목입니다"
 
-## This is a Subheader
+## "부제목입니다"
 
 You can write normal text here.
 
